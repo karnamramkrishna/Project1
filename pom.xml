@@ -75,6 +75,5 @@
 		</plugin>
       </plugins>
     </pluginManagement>
-	<fileName>sample</fileName>
-  	  </build>
+ </build>
 </project>
