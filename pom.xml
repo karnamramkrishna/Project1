@@ -27,7 +27,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
+  <build>
+	<fileName>sample</fileName>
+   </build>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
